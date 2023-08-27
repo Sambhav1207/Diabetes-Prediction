@@ -3,4 +3,4 @@ Building a system that can predict whether a person has diabetes or not with the
 <br>
 <a href="https://www.dropbox.com/s/uh7o7uyeghqkhoy/diabetes.csv?dl=0">Dataset Link</a>
 <br>
-<img src="file:///C:/Users/asus/Downloads/SONAR.webp" alt="Work Flow" width="500" height="600">
+<img src="https://drive.google.com/drive/u/0/my-drive" alt="Work Flow" width="500" height="600">
