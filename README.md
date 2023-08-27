@@ -7,5 +7,7 @@ Building a system that can predict whether a person has diabetes or not with the
 <img src="./SVM.jpg" alt="SVM"/>
 </p>
 <br>
-![Work Flow](./DIABETES.jpg)
+<p align="center">
+<img src="./DIABETES.jpg" alt="Work Flow"/>
+</p>
 
