@@ -2,5 +2,4 @@
 Building a system that can predict whether a person has diabetes or not with the help of Machine Learning. This project is done in Python. In this project, we use Support Vector Machine model for the prediction.
 <br>
 <a href="https://www.dropbox.com/s/uh7o7uyeghqkhoy/diabetes.csv?dl=0">Dataset Link</a>
-<br>
-<img src="https://drive.google.com/drive/u/0/my-drive" alt="Work Flow" width="500" height="600">
+
