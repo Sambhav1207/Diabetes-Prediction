@@ -4,7 +4,7 @@ Building a system that can predict whether a person has diabetes or not with the
 <a href="https://www.dropbox.com/s/uh7o7uyeghqkhoy/diabetes.csv?dl=0">Dataset Link</a>
 <br>
 <p align="center">
-![SVM](./SVM.jpg)
+<img src="./SVM.jpg" alt="SVM"/>
 </p>
 <br>
 ![Work Flow](./DIABETES.jpg)
